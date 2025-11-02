@@ -18,3 +18,8 @@
  let result2 =multiply(10,3);
 
  console.log(result2); //Output :30
+
+
+ function greet(name,age){
+    console.log(" hi Amon ,10");
+ }

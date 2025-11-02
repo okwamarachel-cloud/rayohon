@@ -1,0 +1,6 @@
+ 
+
+def saygoodbye ():
+
+    print ("goodbye")
+    

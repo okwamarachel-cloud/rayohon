@@ -1,0 +1,9 @@
+
+numbers={1,2,3,4,5}
+numbers.add (6)
+
+{1,2,3,4,5,6}
+
+numbers.remove(2)
+
+{1,3,4,5,6}
